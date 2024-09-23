@@ -1,0 +1,462 @@
+nav-item{
+    justify-content: end;
+}
+#cmg{
+    position: relative;
+    top: 125px;
+}
+
+.navbar-nav{
+    gap: 20px;
+    justify-content: end;
+    
+    } 
+#navbarNav{
+    justify-content: end;
+    
+}
+
+#brandLogo{
+  
+    width: 45%;
+    padding-left: 15%;
+}
+
+.navigation-bar{
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#order{
+    border-radius: 35px;
+    color: white;
+    background-color: red;
+    border-color: red;
+    height: 50px;
+}
+#get{
+    border-radius: 35px;
+color: white;
+background-color: black;
+height: 50px;
+}
+.welcome{
+    font-size: 60px;
+    color: aliceblue;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.restaurent{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    position: relative;
+    bottom: 13px;
+}
+.span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pleas{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    background-color: black;
+
+}
+.par{
+    background-color: black;
+}
+.img{
+    display: inline-block;
+}
+
+
+.card{
+    color: aliceblue;
+    background-color: black;
+    border-color: black;
+}
+.dus{
+    border-radius: 35px;
+    color: aliceblue;
+    background-color: black;
+    border-color: aliceblue;
+    height: 50px;
+    width: 180px;
+    position: relative;
+    left: 50px;
+    top: -15px;
+}
+
+.bod{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#para{
+    background-color: rgba(241, 4, 210, 0.446);
+    color: white;
+    /* margin-bottom: 1000px; */
+    padding-bottom: 1000px;
+    padding-top: 600px;
+
+}
+@media (min-width: 300px) and (max-width: 500px){
+    #sumi{
+        display: block;
+
+    }
+}
+#dar{
+    background-color: black !important;
+    
+}
+#mur{
+    background-color: black !important;
+}
+#ohh{
+    color: bisque;
+ /* padding-bottom: 80px; */
+}
+#sal{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 65px;
+ position: relative;
+ top: 20px;   
+}
+#res{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+#each{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+#btn{
+    color: aliceblue;
+background-color: rgb(5, 5, 14);
+border-radius: 35px;
+border-color: aliceblue;
+width: 150px;
+height: 50px;
+position: relative;
+top: 25px;
+
+
+}
+#png{
+    display: flex;
+    justify-content: end;
+    align-items: top;
+    position: relative;
+    bottom: 130px;
+
+}
+#isl{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mndiv{
+    padding-left: 150px;
+    padding-right: 150px;
+ 
+}
+#fsd{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#fun{
+    position: relative;
+    left: 800px;
+    bottom: 250px;
+    
+}
+#fs{ padding-left: 130px;
+    
+}
+body{
+    overflow-x: hidden;
+}
+#blu{
+    position: relative;
+    bottom: 60px;
+}
+#cul{
+    position: relative;
+    bottom: 100px;    
+}
+#imgcard17{
+    width: 350px;
+}
+#imgcard12{
+    position: relative;
+    left: 50px ;
+width: 350px;
+}
+#clc{
+    margin-right: -40px;
+    background-color: black;
+}
+#card1{
+    margin-right: 50px;
+    width: 300px;
+}
+#card3{ 
+    margin-left: 50px;
+}
+#anda{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#exp{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 40px;
+}
+#imgcard1{
+    width: 350px;
+}
+#imgcard2{
+    width: 350px;
+}
+#imgcard3{
+    width: 350px;
+}
+.color{
+    display: flex;
+    justify-content: center;
+    
+}
+.fon{
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    position: relative;
+    top: 3px;
+border-radius: 35px;
+left: 60px;
+}
+#kar{
+    background-color: black;
+    padding-bottom: 75px;
+}
+.ent{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+#tnt{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    position: relative;
+    bottom: 25px;
+}
+#nt{
+    color: red;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 110px;
+    bottom: 300px;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#moo{
+    color: white;
+}
+#jj{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 165px;
+    gap: 10px;
+    bottom: 290px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#dd{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 285px;
+    bottom: 285px;
+}
+#bete{
+color: white !important;
+
+}
+#ool{
+    position: relative;
+    bottom: 80px;
+}
+#ph{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 147px;
+    bottom: 280px;
+}
+#oo{
+    color: white;
+    background-color: green;
+    border-radius: 35px;
+    border-color: green;
+    width: 150px;
+    height: 50px;
+
+}
+#lop{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 137px;
+    bottom: 200px;
+}
+.ll{
+    color: white;
+    background-color: black;
+   
+}
+.ops{
+
+    display: flex;
+
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    position: relative;
+    top: 50px;
+}
+#ill{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+position: relative;
+top: 25px;
+margin-bottom: 25px;
+}
+#card3{
+    position: relative;
+    left: 45px;
+}
+#card1{
+    position: relative;
+    right: 45px;
+}
+#uiux{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+position: relative;
+top: 115px;
+}
+#clh{
+    gap: 30px;
+display: flex;
+justify-content: center;
+}
+#card8{
+    position: relative;
+    left: 95px;
+}
+.footer{
+    /* background-color: black; */
+color: white;
+padding: 70px 0;
+}
+ul{
+    list-style: none;
+}
+
+.footer-col{
+    display: flex;
+    flex-wrap: wrap;
+/* justify-content: center; */
+}
+#yum{
+    background-color: white;
+    color: black;
+    padding-bottom: 50px;    
+padding-top: 50px;
+position: relative;
+top: 25px;
+/* top: 10px; */
+/* gap: 500px; */
+}
+#lum{
+    position: relative;
+    top: 55px;
+    background-color: white;
+    color: black;
+    padding-bottom: 80px;    
+padding-top: 50px;
+}
+#um{
+    background-color: white;
+    color: black;
+    padding-bottom: 50px;    
+padding-top: 50px;
+position: relative;
+/* top: 10px; */ top: 85px;
+/* gap: 500px; */
+}
+.iconic{
+    width: 45px;
+    /* display: flex; */
+    /* : center; */
+    position: relative;
+    left: 145px;
+}
+#omm{
+    gap: 30px;
+}
+.oppo{
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+#fonto{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+.digi{
+    gap: 30px;
+margin-left: 10px;
+}
+#sdd{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
